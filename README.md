@@ -1,4 +1,4 @@
-# Nyong
+# Nyung
 한국인만 읽을 수 있는 욕을 잘 감지하는 아이
 
 ### 📚 References
